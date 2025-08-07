@@ -84,12 +84,6 @@ Each cropped image corresponds to a detected circular pattern in the input image
 
 ---
 
-## 📥 Model Download (if not included)
-
-If `weights/best.pt` is not present, you can download it from the [model release page](https://github.com/yourusername/CircularPatternCropper/releases) and place it inside the `weights/` folder.
-
----
-
 ## 🙏 Acknowledgments
 
 - [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics) for the detection backbone
