@@ -63,6 +63,8 @@ The detected circular patterns will be cropped and saved automatically in an `ou
 
 | Input Image                  | Cropped Output             |
 |-----------------------------|----------------------------|
+| ![<img width="1600" height="1600" alt="sample1" src="https://github.com/user-attachments/assets/95771714-8acb-476c-860f-acc16f012b2a" />]| <img width="1043" height="1035" alt="sample1_cropped" src="https://github.com/user-attachments/assets/68c755d9-bc96-4c85-a795-e78a22217f67" /> |
+| ![](samples/input_sample.png) | ![](samples/cropped_output.png) |
 | ![](samples/input_sample.png) | ![](samples/cropped_output.png) |
 
 ---
