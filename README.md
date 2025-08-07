@@ -63,9 +63,9 @@ The detected circular patterns will be cropped and saved automatically in an `ou
 
 | Input Image                  | Cropped Output             |
 |-----------------------------|----------------------------|
-| ![<img width="1600" height="1600" alt="sample1" src="https://github.com/user-attachments/assets/95771714-8acb-476c-860f-acc16f012b2a" />]| <img width="1043" height="1035" alt="sample1_cropped" src="https://github.com/user-attachments/assets/68c755d9-bc96-4c85-a795-e78a22217f67" /> |
-| ![](samples/input_sample.png) | ![](samples/cropped_output.png) |
-| ![](samples/input_sample.png) | ![](samples/cropped_output.png) |
+| <img width="1600" height="1600" alt="sample1" src="https://github.com/user-attachments/assets/95771714-8acb-476c-860f-acc16f012b2a" /> | <img width="1043" height="1035" alt="sample1_cropped" src="https://github.com/user-attachments/assets/68c755d9-bc96-4c85-a795-e78a22217f67" /> |
+| <img width="1600" height="1600" alt="sample2" src="https://github.com/user-attachments/assets/09ad9b5e-c9f1-4c51-9585-c07c362358ed" /> | <img width="983" height="919" alt="sample2_cropped" src="https://github.com/user-attachments/assets/4169fb4b-605b-4331-9b6b-4c6824d69d8f" /> |
+| <img width="1392" height="1040" alt="sample3" src="https://github.com/user-attachments/assets/bcafda24-d7a6-488c-90cb-4247eeae57f8" /> | <img width="791" height="784" alt="sample3_cropped" src="https://github.com/user-attachments/assets/0729e81c-7b2f-4e55-9929-3f8f1097650d" /> |
 
 ---
 
